@@ -1,9 +1,9 @@
 # Machine Learning Resources
 
-# Courses
+## Courses
 
-# Frameworks and Libraries
+## Frameworks and Libraries
 
-# Research Papers
+## Research Papers
 
-# Blogs
+## Blogs
