@@ -1,4 +1,4 @@
-# awesome-machine-learning
+# Machine Learning Resources
 
 # Courses
 
